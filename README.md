@@ -52,3 +52,4 @@ My Experties in programming languages.
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;      
 </div>
     
+![Dhruv Darji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Darji&hide=contribs,prs)
