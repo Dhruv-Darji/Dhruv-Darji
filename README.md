@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Consultancy.
-- 🌱 I’m currently learning AppDevelopment.
+- 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on Opersource projects.
 - 💬 Ask me about App Development.
 - 📫 You can reach me at darjidhruv127@gmail.com 
