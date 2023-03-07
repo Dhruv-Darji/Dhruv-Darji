@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Consultancy.
+- 🔭 I’m currently working on Flutter.
 - 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on Opersource projects.
+- 👯 I’m looking to collaborate on Opensource projects.
 - 💬 Ask me about App Development.
 - 📫 You can reach me at darjidhruv127@gmail.com 
 
@@ -15,6 +15,7 @@ My Experties in programming languages.
 
 [Programming Language](#programming-language)
 <div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;    
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
@@ -36,6 +37,7 @@ My Experties in programming languages.
 [Storage Engine](#database)
 
 <div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 </div>
 
@@ -50,6 +52,7 @@ My Experties in programming languages.
 
 [Editor / IDE](#editor)
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;      
 </div>
     
