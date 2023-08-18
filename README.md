@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Flutter.
-- 🌱 I’m currently learning Web Development.
+- 🔭 I’m currently working on Python.
+- 🌱 I’m currently learning Natural Prossesing Language.
 - 👯 I’m looking to collaborate on Opensource projects.
-- 💬 Ask me about App Development.
+- 💬 Ask me about App & Web Development.
 - 📫 You can reach me at darjidhruv127@gmail.com 
 
 My Experties in programming languages.
